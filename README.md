@@ -1,3 +1,7 @@
+## Deprecation
+
+This project evolved to AndroidDevMetrics (metrics for Android Development, not only for Dagger 2) and now can be found here: [AndroidDevMetrics](https://github.com/frogermcs/androiddevmetrics)
+
 # Dagger2Metrics
 
 Performance metrics library for Dagger 2 initialization process.
